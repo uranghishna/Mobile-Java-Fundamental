@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string-array name="title">
+        <item>Aquaman</item>
+        <item>Avengers : Invinity War</item>
+        <item>Bumblebee</item>
+        <item>Dragon Ball Super: Broly</item>
+        <item>Marry Popins Return</item>
+        <item>Mortal Engines</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Unce Upon A Deadpool</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="director">
+        <item>James Wan</item>
+        <item>Anthony Russo, Joe Russo</item>
+        <item>Travis Knight</item>
+        <item>Tatsuya Nagamine</item>
+        <item>Rob Marshall</item>
+        <item>Christian Rivers</item>
+        <item>Otto Bathurst</item>
+        <item>Bob Persichetti, Peter Ramsey </item>
+        <item>David Leitch</item>
+        <item>Ruben Fleischer</item>
+    </string-array>
+
+    <string-array name="cast">
+        <item>Jason Momoa, Amber Heard, Willem Dafoe</item>
+        <item>Robert Downey Jr., Chris Hemsworth, Mark Ruffalo </item>
+        <item>Hailee Steinfeld, Jorge Lendeborg Jr., John Cena</item>
+        <item>Masako Nozawa, Aya Hisakawa, Ryô Horikawa </item>
+        <item>Emily Blunt, Lin-Manuel Miranda, Ben Whishaw</item>
+        <item>Hera Hilmar, Robert Sheehan, Hugo Weaving</item>
+        <item>Taron Egerton, Jamie Foxx, Ben Mendelsohn</item>
+        <item>Shameik Moore, Jake Johnson, Hailee Steinfeld </item>
+        <item>Rhett Reese, Paul Wernick, Ryan Reynolds </item>
+        <item>Tom Hardy, Michelle Williams, Riz Ahmed</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Action, Adventure, Fantasy </item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Animation, Action, Adventure</item>
+        <item>Comedy, Family, Fantasy</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Thriller</item>
+        <item>Animation, Action, Adventure</item>
+        <item>Action, Adventure, Comedy </item>
+        <item>Action, Sci-Fi, Thriller</item>
+    </string-array>
+
+    <string-array name="duration">
+        <item>2h 23min</item>
+        <item>2h 29min</item>
+        <item>1h 54min</item>
+        <item>1h 40min</item>
+        <item>2h 10min</item>
+        <item>2h 8min</item>
+        <item>1h 56min</item>
+        <item>1h 57min</item>
+        <item>1h 56min</item>
+        <item>1h 52min</item>
+    </string-array>
+
+    <string-array name="release_date">
+        <item>21 December 2018</item>
+        <item>27 April 2018</item>
+        <item>21 December 2018</item>
+        <item>16 January 2019</item>
+        <item>19 December 2018</item>
+        <item>14 December 2018</item>
+        <item>21 November 2018</item>
+        <item>14 December 2018</item>
+        <item>12 December 2018</item>
+        <item>5 October 2018</item>
+    </string-array>
+
+    <string-array name="trailer">
+        <item>https://www.imdb.com/title/tt1477834/videoplayer/vi3588536857?ref_=tt_ov_vi</item>
+        <item>https://www.imdb.com/title/tt4154756/videoplayer/vi528070681?ref_=tt_ov_vi</item>
+        <item>https://www.imdb.com/title/tt4701182/videoplayer/vi1473100313?ref_=tt_ov_vi</item>
+        <item>https://www.imdb.com/title/tt7961060/videoplayer/vi2189277721?ref_=tt_ov_vi</item>
+        <item>https://www.imdb.com/title/tt5028340/videoplayer/vi2354100761?ref_=tt_ov_vi</item>
+        <item>https://www.imdb.com/title/tt1571234/videoplayer/vi3886594585?ref_=tt_ov_vi</item>
+        <item>https://www.imdb.com/title/tt4532826/videoplayer/vi447330841?ref_=tt_ov_vi</item>
+        <item>https://www.imdb.com/title/tt4633694/videoplayer/vi1489877529?ref_=tt_ov_vi</item>
+        <item>https://youtu.be/PCf03KXyzIg</item>
+        <item>https://www.imdb.com/title/tt1270797/videoplayer/vi1186773529?ref_=tt_ov_vi</item>
+    </string-array>
+
+
+    <string-array name="rating">
+        <item>7,1</item>
+        <item>8,5</item>
+        <item>6,9</item>
+        <item>8,0</item>
+        <item>6,9</item>
+        <item>6,1</item>
+        <item>5,3</item>
+        <item>8,5</item>
+        <item>5,1</item>
+        <item>6,7</item>
+    </string-array>
+
+    <string-array name="sinopsis">
+        <item>Arthur Curry, half human half from Atlantis, goes on a trip of a lifetime. Not only does this adventure compel him to come to terms with his real identity, but it also forces him to discover whether he is entirely worthy of fulfilling his own destiny: becoming a king.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.</item>
+        <item>On Cybertron, the Autobots, led by Optimus Prime, are on the verge of losing the Great Cybertronian War to their enemies, the Decepticons, and begin making preparations to leave the planet. The Decepticons led by Shockwave, Soundwave and Starscream ambush them during the evacuation, and Optimus sends a young scout, B-127, to Earth in order to set up a base of operations where the Autobots can regroup. B-127 reaches Earth alone in 1987, crash-landing in California and disrupting a training exercise being conducted by Sector 7, a secret government agency that monitors extraterrestrial activity on Earth. Sector 7 agent Colonel Jack Burns presumes B-127 to be a hostile invader and attacks, driving B-127 into the forest, where he is then ambushed by the Decepticon Blitzwing. When B-127 refuses to reveal Optimus whereabouts, Blitzwing spitefully tears out his voice-box and damages his memory core. B-127 manages to destroy Blitzwing before collapsing from his wounds. Before entering stasis,...</item>
+        <item>Goku and Vegeta encounter Broly, a Saiyan warrior unlike any fighter theyve faced before.</item>
+        <item>In Depression-era London, a now-grown Jane and Michael Banks, along with Michaels three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives</item>
+        <item>AA mysterious young woman, Hester Shaw, emerges as the only one who can stop a giant, predator city on wheels devouring everything in its path. Feral, and fiercely driven by the memory of her mother, Hester joins forces with Tom Natsworthy, an outcast from London, along with Anna Fang, a dangerous outlaw with a bounty on her head.</item>
+        <item>A war-hardened crusader Robin of Loxley (Taron Egerton) and his Moorish commander (Jamie Foxx) mount an audacious revolt against the corrupt English crown.</item>
+        <item>Miles Morales is a New York teen struggling with school, friends and, on top of that, being the new Spider-Man. When he comes across Peter Parker, the erstwhile saviour of New York, in the multiverse, Miles must train to become the new protector of his city.</item>
+        <item>After losing Vanessa (Morena Baccarin), the love of his life, 4th-wall breaking mercenary Wade Wilson aka Deadpool (Ryan Reynolds) must assemble a team and protect a young, full-figured mutant Russell Collins aka Firefist (Julian Dennison) from Cable (Josh Brolin), a no-nonsense, dangerous cyborg from the future, and must also learn the most important lesson of all: to be part of a family again. </item>
+        <item>After a faulty interview with the Life Foundation ruins his career, former reporter Eddie Brocks life is in pieces. Six months later, he comes across the Life Foundation again, and he comes into contact with an alien symbiote and becomes Venom, a parasitic antihero.</item>
+    </string-array>
+
+    <string-array name="thumbnail">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_venom</item>
+    </string-array>
+</resources>
